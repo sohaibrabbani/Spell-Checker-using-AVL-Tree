@@ -28,3 +28,17 @@ order.
 
 ## The log file:
 After building the AVL tree, you should display the number of words it contains. The main part of the log file consists of output from the commands. When searching for a word during a spell check, the AVL tree should be instrumented to log the sequence of words that were compared to the sought word along the way. For words that fail the spell check, you must also log the alternatives suggested by the spell checker. The formatting is up to you, but it should be neat and easily read.
+
+
+## License
+
+* [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+## Contributing
+
+Please fork this repository and contribute back using
+[pull requests](https://github.com/sohaibrabbani/Spell-Checker-using-AVL-Tree/pulls).
+
+Any contributions, large or small, major features, bug fixes, additional
+language translations, unit/integration tests are welcomed and appreciated
+but will be thoroughly reviewed and discussed.
