@@ -1,0 +1,16 @@
+check	root
+check	moderation
+check	perished
+check	ration
+check	rationality
+add	realism
+display	
+add	aardvark
+display	
+add	mismatches
+display	
+remove	unvisited
+remove	salvage
+remove	rat
+display	
+exit	

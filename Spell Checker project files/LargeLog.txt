@@ -1,0 +1,190 @@
+Dictionary contains 36340 words.
+
+----------------------------------------  0
+Command:  check	friend
+Find:  going left from inconsequence
+Find:  going right from deaf
+Find:  going right from febrifugal
+Find:  going left from grin
+Find:  going left from froth
+Find:  going right from flotsam
+Find:  going right from forlorn
+Find:  going right from frangible
+Find:  going right from friable
+Find:  going left from frippery
+Find:  going left from friendship
+Find:  going right from frication
+Find:  going left from friendless
+Find:  going right from friday
+Found: friend
+word is spelled correctly
+----------------------------------------  1
+Command:  check	algorithm
+Find:  going left from inconsequence
+Find:  going left from deaf
+Find:  going left from breechesmaker
+Find:  going left from arraignment
+Find:  going left from aliene
+Find:  going right from adhesiveness
+Find:  going right from affuse
+Find:  going right from agua
+Find:  going right from alas
+Find:  going right from alembic
+Find:  going right from algebraize
+Find:  going left from alibi
+Find:  going right from algorism
+Find:  going left from alguazil
+Found: algorithm
+word is spelled correctly
+----------------------------------------  2
+Command:  check	spelling
+Find:  going right from inconsequence
+Find:  going right from praised
+Find:  going right from seventh
+Find:  going left from triangular
+Find:  going left from subdominant
+Find:  going right from soon
+Find:  going left from standard
+Find:  going left from spiny
+Find:  going right from sparks
+Find:  going right from speedily
+Find:  going left from spherule
+Find:  going left from spermatic
+Find:  going left from spend
+Find:  going right from spellbound
+Find:  going left from spem
+Found: spelling
+word is spelled correctly
+----------------------------------------  3
+Command:  check	computer
+Find:  going left from inconsequence
+Find:  going left from deaf
+Find:  going right from breechesmaker
+Find:  going right from cognoscible
+Find:  going left from copia
+Find:  going left from conestoga
+Find:  going right from comon
+Find:  going right from computable
+Find:  going left from conclusion
+Find:  going left from conceptional
+Find:  going left from conceal
+Find:  going left from con
+Find:  going left from computerized
+Find:  going right from compute
+Found: computer
+word is spelled correctly
+----------------------------------------  4
+Command:  check	freind
+Find:  going left from inconsequence
+Find:  going right from deaf
+Find:  going right from febrifugal
+Find:  going left from grin
+Find:  going left from froth
+Find:  going right from flotsam
+Find:  going right from forlorn
+Find:  going right from frangible
+Find:  going left from friable
+Find:  going right from freehold
+Find:  going left from frenzied
+Find:  going right from freeze
+Find:  going right from freightage
+Find:  going left from frenchhorn
+Find:  going left from french
+word is spelled incorrectly
+3 suggested spellings:
+     freund
+     friend
+     frying
+----------------------------------------  5
+Command:  check	muxzle
+Find:  going right from inconsequence
+Find:  going left from praised
+Find:  going right from misrepresentation
+Find:  going left from outre
+Find:  going left from nitor
+Find:  going right from multos
+Find:  going left from navigator
+Find:  going left from myrmidon
+Find:  going right from mushroom
+Find:  going right from mutation
+Find:  going right from mutual
+Find:  going left from mycology
+Find:  going left from muzzled
+Find:  going right from mutum
+Find:  going left from muzzle
+word is spelled incorrectly
+12 suggested spellings:
+     fuzzle
+     guzzle
+     mizzle
+     muckle
+     muddle
+     muffle
+     mumble
+     muscle
+     muzzle
+     muzzled
+     nuzzle
+     puzzle
+----------------------------------------  6
+Command:  check	permuttaion
+Find:  going right from inconsequence
+Find:  going left from praised
+Find:  going right from misrepresentation
+Find:  going right from outre
+Find:  going right from permutation
+Find:  going left from plaintive
+Find:  going left from phthiozoics
+Find:  going left from peterto
+Find:  going left from persuadable
+Find:  going left from persians
+Find:  going left from perpetuation
+Find:  going left from perpendicularity
+Find:  going left from perorate
+Find:  going left from pernicious
+Find:  going right from permute
+word is spelled incorrectly
+1 suggested spellings:
+     permutation
+----------------------------------------  7
+Command:  check	eononvweoire
+Find:  going left from inconsequence
+Find:  going right from deaf
+Find:  going left from febrifugal
+Find:  going right from ducks
+Find:  going left from equipment
+Find:  going right from embarrassing
+Find:  going right from engarrison
+Find:  going right from entrap
+Find:  going left from epigrammatic
+Find:  going right from eon
+Find:  going left from epic
+Find:  going left from eperdument
+Find:  going left from eparch
+Find:  going left from epagoge
+Find:  going left from epact
+word is spelled incorrectly
+no suggestions
+----------------------------------------  8
+Command:  check	persnickety
+Find:  going right from inconsequence
+Find:  going left from praised
+Find:  going right from misrepresentation
+Find:  going right from outre
+Find:  going right from permutation
+Find:  going left from plaintive
+Find:  going left from phthiozoics
+Find:  going left from peterto
+Find:  going left from persuadable
+Find:  going right from persians
+Find:  going left from personate
+Find:  going left from person
+Find:  going right from persist
+Find:  going right from persistent
+Find:  going right from persisting
+word is spelled incorrectly
+no suggestions
+----------------------------------------  9
+Command:  exit	
+Exiting now...
+----------------------------------------

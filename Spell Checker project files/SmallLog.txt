@@ -1,0 +1,348 @@
+Dictionary contains 50 words.
+
+----------------------------------------  0
+Command:  display	
+Spelling dictionary contents: 
+
+---------------EQ abandon
+------------LH aberration
+---------EQ abominable
+---------------EQ favorable
+------------EQ flaw
+---------------EQ freeze
+------LH generic
+---------RH gesture
+------------EQ immediate
+---RH improbable
+---------------EQ just
+------------LH misfortune
+---------RH misjoined
+------------------EQ mismatch
+---------------EQ misplace
+------------------EQ misshapen
+------------LH moderation
+---------------EQ passive
+------EQ perish
+---------------RH picture
+------------------EQ position
+------------LH precisely
+---------------EQ probability
+---------LH production
+---------------EQ proportions
+------------EQ quadratic
+---------------EQ quibble
+EQ rat
+------------------EQ ratio
+---------------LH rational
+------------LH reality
+---------------EQ reason
+---------LH recognize
+---------------EQ ring
+------------EQ roach
+---------------EQ role
+------LH root
+---------------EQ rudimentary
+------------LH sacrifice
+---------LH sadism
+------------EQ salient
+---LH salvage
+------------EQ semantic
+---------EQ semicolon
+------------EQ teleological
+------RH terminate
+------------RH untimely
+---------------EQ unvisited
+---------LH wilderness
+------------EQ zero
+----------------------------------------  1
+Command:  check	root
+Find:  going right from rat
+Find:  going left from salvage
+Found: root
+word is spelled correctly
+----------------------------------------  2
+Command:  check	moderation
+Find:  going left from rat
+Find:  going right from improbable
+Find:  going left from perish
+Find:  going right from misjoined
+Found: moderation
+word is spelled correctly
+----------------------------------------  3
+Command:  check	perished
+Find:  going left from rat
+Find:  going right from improbable
+Find:  going right from perish
+Find:  going left from production
+Find:  going left from precisely
+Find:  going left from picture
+word is spelled incorrectly
+1 suggested spellings:
+     perish
+----------------------------------------  4
+Command:  check	ration
+Find:  going right from rat
+Find:  going left from salvage
+Find:  going left from root
+Find:  going left from recognize
+Find:  going left from reality
+Find:  going left from rational
+Find:  going right from ratio
+word is spelled incorrectly
+2 suggested spellings:
+     ratio
+     rational
+----------------------------------------  5
+Command:  check	rationality
+Find:  going right from rat
+Find:  going left from salvage
+Find:  going left from root
+Find:  going left from recognize
+Find:  going left from reality
+Find:  going right from rational
+word is spelled incorrectly
+no suggestions
+----------------------------------------  6
+Command:  add	realism
+realism has been added to the dictionary
+----------------------------------------  7
+Command:  display	
+Spelling dictionary contents: 
+
+---------------EQ abandon
+------------LH aberration
+---------EQ abominable
+---------------EQ favorable
+------------EQ flaw
+---------------EQ freeze
+------LH generic
+---------RH gesture
+------------EQ immediate
+---RH improbable
+---------------EQ just
+------------LH misfortune
+---------RH misjoined
+------------------EQ mismatch
+---------------EQ misplace
+------------------EQ misshapen
+------------LH moderation
+---------------EQ passive
+------EQ perish
+---------------RH picture
+------------------EQ position
+------------LH precisely
+---------------EQ probability
+---------LH production
+---------------EQ proportions
+------------EQ quadratic
+---------------EQ quibble
+EQ rat
+------------------EQ ratio
+---------------EQ rational
+------------------EQ realism
+------------LH reality
+---------------EQ reason
+---------LH recognize
+---------------EQ ring
+------------EQ roach
+---------------EQ role
+------LH root
+---------------EQ rudimentary
+------------LH sacrifice
+---------LH sadism
+------------EQ salient
+---LH salvage
+------------EQ semantic
+---------EQ semicolon
+------------EQ teleological
+------RH terminate
+------------RH untimely
+---------------EQ unvisited
+---------LH wilderness
+------------EQ zero
+----------------------------------------  8
+Command:  add	aardvark
+aardvark has been added to the dictionary
+----------------------------------------  9
+Command:  display	
+Spelling dictionary contents: 
+
+---------------EQ aardvark
+------------EQ abandon
+---------------EQ aberration
+---------EQ abominable
+---------------EQ favorable
+------------EQ flaw
+---------------EQ freeze
+------LH generic
+---------RH gesture
+------------EQ immediate
+---RH improbable
+---------------EQ just
+------------LH misfortune
+---------RH misjoined
+------------------EQ mismatch
+---------------EQ misplace
+------------------EQ misshapen
+------------LH moderation
+---------------EQ passive
+------EQ perish
+---------------RH picture
+------------------EQ position
+------------LH precisely
+---------------EQ probability
+---------LH production
+---------------EQ proportions
+------------EQ quadratic
+---------------EQ quibble
+EQ rat
+------------------EQ ratio
+---------------EQ rational
+------------------EQ realism
+------------LH reality
+---------------EQ reason
+---------LH recognize
+---------------EQ ring
+------------EQ roach
+---------------EQ role
+------LH root
+---------------EQ rudimentary
+------------LH sacrifice
+---------LH sadism
+------------EQ salient
+---LH salvage
+------------EQ semantic
+---------EQ semicolon
+------------EQ teleological
+------RH terminate
+------------RH untimely
+---------------EQ unvisited
+---------LH wilderness
+------------EQ zero
+---------------------------------------- 10
+Command:  add	mismatches
+mismatches has been added to the dictionary
+---------------------------------------- 11
+Command:  display	
+Spelling dictionary contents: 
+
+---------------EQ aardvark
+------------EQ abandon
+---------------EQ aberration
+---------EQ abominable
+---------------EQ favorable
+------------EQ flaw
+---------------EQ freeze
+------LH generic
+---------RH gesture
+------------EQ immediate
+---RH improbable
+---------------EQ just
+------------LH misfortune
+---------RH misjoined
+---------------RH mismatch
+------------------EQ mismatches
+------------EQ misplace
+------------------EQ misshapen
+---------------EQ moderation
+------------------EQ passive
+------EQ perish
+---------------RH picture
+------------------EQ position
+------------LH precisely
+---------------EQ probability
+---------LH production
+---------------EQ proportions
+------------EQ quadratic
+---------------EQ quibble
+EQ rat
+------------------EQ ratio
+---------------EQ rational
+------------------EQ realism
+------------LH reality
+---------------EQ reason
+---------LH recognize
+---------------EQ ring
+------------EQ roach
+---------------EQ role
+------LH root
+---------------EQ rudimentary
+------------LH sacrifice
+---------LH sadism
+------------EQ salient
+---LH salvage
+------------EQ semantic
+---------EQ semicolon
+------------EQ teleological
+------RH terminate
+------------RH untimely
+---------------EQ unvisited
+---------LH wilderness
+------------EQ zero
+---------------------------------------- 12
+Command:  remove	unvisited
+unvisited has been removed from the dictionary
+---------------------------------------- 13
+Command:  remove	salvage
+salvage has been removed from the dictionary
+---------------------------------------- 14
+Command:  remove	rat
+rat has been removed from the dictionary
+---------------------------------------- 15
+Command:  display	
+Spelling dictionary contents: 
+
+---------------EQ aardvark
+------------EQ abandon
+---------------EQ aberration
+---------EQ abominable
+---------------EQ favorable
+------------EQ flaw
+---------------EQ freeze
+------LH generic
+---------RH gesture
+------------EQ immediate
+---RH improbable
+---------------EQ just
+------------LH misfortune
+---------RH misjoined
+---------------RH mismatch
+------------------EQ mismatches
+------------EQ misplace
+------------------EQ misshapen
+---------------EQ moderation
+------------------EQ passive
+------EQ perish
+---------------RH picture
+------------------EQ position
+------------LH precisely
+---------------EQ probability
+---------LH production
+---------------EQ proportions
+------------EQ quadratic
+---------------EQ quibble
+LH ratio
+------------RH rational
+---------------EQ realism
+---------LH reality
+------------EQ reason
+------LH recognize
+------------EQ ring
+---------EQ roach
+------------EQ role
+---EQ root
+---------------EQ rudimentary
+------------LH sacrifice
+---------LH sadism
+------------EQ salient
+------EQ semantic
+------------RH semicolon
+---------------EQ teleological
+---------EQ terminate
+---------------EQ untimely
+------------EQ wilderness
+---------------EQ zero
+---------------------------------------- 16
+Command:  exit	
+Exiting now...
+----------------------------------------

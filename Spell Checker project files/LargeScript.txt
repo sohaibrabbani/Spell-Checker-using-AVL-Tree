@@ -1,0 +1,10 @@
+check	friend
+check	algorithm
+check	spelling
+check	computer
+check	freind
+check	muxzle
+check	permuttaion
+check	eononvweoire
+check	persnickety
+exit	
