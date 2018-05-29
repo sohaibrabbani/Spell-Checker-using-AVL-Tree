@@ -5,20 +5,20 @@ A relatively simple spell checker for text. The spell checker will incorporate a
 ## Program execution:
 The program will be invoked with three command-line parameters:
 
-**spellcheck '<'command file> '<'dictionary file> '<'log file>**  
+**spellcheck &lt;command file&gt; &lt;dictionary file&gt; &lt;log file&gt;**  
 
 ## The dictionary file:
 The word list file is simply a list of strings, one per line. There is no special parsing required. The controller should just read the words one by one and tell the spell checker to add them to its database. The AVL tree should not allow the insertion of duplicate entries, so if the dictionary file does contain duplicates, they should be filtered out automatically as the tree is being built.
 
 ## The command file:
 Each line consists of a characters. A newline character will immediately follow the The first two commands are basic searches and must be instrumented as described.
-    **check<tab'>''<'word>** 
+**check&lt;tab&gt;&lt;word&gt;** 
 This causes the spellchecker to search the AVL dictionary as described earlier. What should be logged is described below.
-    **add<tab'>'<word'>'** 
+**add&lt;tab&gt;&lt;word&gt;** 
 This causes the specified word to be added to the AVL dictionary, unless it is a duplicate of course. A message indicating success or failure should be logged.
-    **remove<tab'>'<word'>'** 
+**remove&lt;tab&gt;&lt;word&gt;** 
 This causes the specified word to be removed from the AVL dictionary, provided it is present of course. A message indicating success or failure should be logged.
-    **display<tab'>'** 
+**display&lt;tab&gt;** 
 This causes the AVL tree to be written to the log file, using any traversal
 order.
 
