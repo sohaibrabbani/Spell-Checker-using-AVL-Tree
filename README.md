@@ -12,12 +12,16 @@ The word list file is simply a list of strings, one per line. There is no specia
 
 ## The command file:
 Each line consists of a characters. A newline character will immediately follow the The first two commands are basic searches and must be instrumented as described.
+
 **check&lt;tab&gt;&lt;word&gt;** 
 This causes the spellchecker to search the AVL dictionary as described earlier. What should be logged is described below.
+
 **add&lt;tab&gt;&lt;word&gt;** 
 This causes the specified word to be added to the AVL dictionary, unless it is a duplicate of course. A message indicating success or failure should be logged.
+
 **remove&lt;tab&gt;&lt;word&gt;** 
 This causes the specified word to be removed from the AVL dictionary, provided it is present of course. A message indicating success or failure should be logged.
+
 **display&lt;tab&gt;** 
 This causes the AVL tree to be written to the log file, using any traversal
 order.
